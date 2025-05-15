@@ -9,3 +9,7 @@ https://stackoverflow.com/questions/75741824/how-to-perform-an-async-call-whose-
 https://kotlinlang.org/docs/coroutines-overview.html#sample-projects
 https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/
 https://stackoverflow.com/questions/76760860/what-is-disposableeffect-and-under-the-hood-in-jetpack-compose
+https://proandroiddev.com/disposableeffect-side-effect-api-in-jetpack-compose-56cb2d3f7888
+https://stackoverflow.com/questions/18828455/android-sms-manager-not-sending-sms
+https://www.geeksforgeeks.org/sending-a-text-message-over-the-phone-using-smsmanager-in-android/
+https://stackoverflow.com/questions/24673595/how-to-get-sms-sent-confirmation-for-each-contact-person-in-android/24845193#24845193
