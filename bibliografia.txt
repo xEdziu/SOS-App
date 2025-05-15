@@ -4,3 +4,8 @@ https://github.com/android/platform-samples/blob/main/samples/location/src/main/
 https://github.com/android/platform-samples/blob/main/samples/privacy/permissions/src/main/java/com/example/platform/privacy/permissions/SinglePermission.kt
 https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/
 https://github.com/TomerPacific/MediumArticles/blob/master/LocationPermissions/app/src/main/java/com/tomerpacific/locationpermissions/MainActivity.kt
+https://www.geeksforgeeks.org/torch-app-in-android-using-jetpack-compose/
+https://stackoverflow.com/questions/75741824/how-to-perform-an-async-call-whose-result-i-need-to-compute-in-onkeyevent-of-col
+https://kotlinlang.org/docs/coroutines-overview.html#sample-projects
+https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/
+https://stackoverflow.com/questions/76760860/what-is-disposableeffect-and-under-the-hood-in-jetpack-compose
