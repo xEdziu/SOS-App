@@ -1,0 +1,6 @@
+https://developer.android.com/training/permissions/requesting
+https://developer.android.com/develop/sensors-and-location/location/retrieve-current
+https://github.com/android/platform-samples/blob/main/samples/location/src/main/java/com/example/platform/location/currentLocation/CurrentLocationScreen.kt
+https://github.com/android/platform-samples/blob/main/samples/privacy/permissions/src/main/java/com/example/platform/privacy/permissions/SinglePermission.kt
+https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/
+https://github.com/TomerPacific/MediumArticles/blob/master/LocationPermissions/app/src/main/java/com/tomerpacific/locationpermissions/MainActivity.kt
