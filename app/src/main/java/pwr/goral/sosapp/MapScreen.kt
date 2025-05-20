@@ -66,7 +66,7 @@ fun MapScreen() {
                     }
                     loading = false
                 }
-            } catch (e: SecurityException) {
+            } catch (_: SecurityException) {
                 Toast.makeText(context, "Brak uprawnień do lokalizacji - toast 1", Toast.LENGTH_SHORT).show()
                 loading = false
             }
